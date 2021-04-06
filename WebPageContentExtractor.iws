@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="WebContentExtractor" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec9da6b7-8cee-47e7-a8e6-0eb53f19c64f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="1lmwkpax" />
+  </component>
+  <component name="ProjectId" id="1jiMdLEkZqwGsuG8dEqsYYh8eve" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\dev\java\WebPageContentExtractor\lib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HtmlContent">
+    <configuration name="ContentExtractor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.idealisan.web.ContentExtractor" />
+      <module name="WebPageContentExtractor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.idealisan.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HtmlContent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.idealisan.web.HtmlContent" />
+      <module name="WebPageContentExtractor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.idealisan.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HtmlContent" />
+        <item itemvalue="Application.ContentExtractor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,SHOW_NON_PUBLIC" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec9da6b7-8cee-47e7-a8e6-0eb53f19c64f" name="Default Changelist" comment="" />
+      <created>1604282544078</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604282544078</updated>
+      <workItem from="1604282547396" duration="6334000" />
+      <workItem from="1604293065447" duration="15338000" />
+      <workItem from="1617674952196" duration="370000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1604297905006">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604297905006" />
+    <state x="230" y="102" width="1042" height="628" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1604304969699">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="230" y="102" width="1042" height="628" key="#com.intellij.debugger.actions.ViewTextAction/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604304969699" />
+    <state x="517" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1604299168847">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="517" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604299168847" />
+    <state x="499" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1604285635537">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604285635537" />
+    <state x="388" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1604282779773">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="388" y="90" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604282779773" />
+    <state x="473" y="109" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1604289996884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="109" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604289996884" />
+    <state x="133" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1604284334546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="133" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604284334546" />
+    <state x="499" y="167" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1604286039721">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604286039721" />
+    <state x="524" y="114" key="#xdebugger.evaluate" timestamp="1604298243668">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="114" key="#xdebugger.evaluate/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604298243668" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1604285796852">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604285796852" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1604310511662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604310511662" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1604310511662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604310511662" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1604310511662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604310511662" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1604310511662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604310511662" />
+    <state x="423" y="79" key="Maven.ArtifactSearchDialog" timestamp="1604283118521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="423" y="79" key="Maven.ArtifactSearchDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604283118521" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1604310373466">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604310373466" />
+    <state x="565" y="189" key="chooseDestDirectoryDialog" timestamp="1604282879478">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="189" key="chooseDestDirectoryDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604282879478" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1604282628302">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1604282628302" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/idealisan/web/HtmlContent.java</url>
+          <line>231</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
